@@ -4,3 +4,4 @@
 - Day01 Variables & Data types 
 - Day02 Operators & Control Flow
 - Day03 Loops & Pattern printing
+- Day04 Functions & Methods
