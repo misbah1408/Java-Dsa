@@ -6,3 +6,6 @@
 - Day03 Loops & Pattern printing
 - Day04 Functions & Methods
 - Day05 Advance Pattern printing
+
+# Java DSA
+- Day06 Arrays(Linear Search, Largest & Samllest, Binary Search, Sub Array,... etc)
