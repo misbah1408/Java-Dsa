@@ -9,4 +9,5 @@
 
 # Java DSA
 - Day06 Arrays(Linear Search, Largest & Samllest, Binary Search, Sub Array,... etc)
-- Day06 Sorting Alogorithms(BubbleSort, SelectionSort, InsertionSort, CountingSort)
+- Day07 Sorting Alogorithms(BubbleSort, SelectionSort, InsertionSort, CountingSort)
+- Day08 2D Arrays
