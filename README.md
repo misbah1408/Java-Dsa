@@ -81,3 +81,10 @@
   - Understanding the backtracking algorithm
   - Solving the N-Queens problem
   - Solving the Sudoku puzzle
+
+- **Day 16:** 📋 **ArrayList**
+  - Introduction to ArrayList
+  - Basic operations (add, remove, get, set)
+  - Iterating through an ArrayList
+  - Common use cases of ArrayList
+  - Using ArrayList in practical examples and small projects
