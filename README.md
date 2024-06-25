@@ -88,3 +88,10 @@
   - Iterating through an ArrayList
   - Common use cases of ArrayList
   - Using ArrayList in practical examples and small projects
+  
+- **Day 17:** 📋 **LinkedList**
+  - Introduction to LinkedList
+  - Basic operations (add, remove, get, set)
+  - Iterating through a LinkedList
+  - Common use cases of LinkedList
+  - Using LinkedList in practical examples and small projects
