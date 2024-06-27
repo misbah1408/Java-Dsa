@@ -95,3 +95,9 @@
   - Iterating through a LinkedList
   - Common use cases of LinkedList
   - Using LinkedList in practical examples and small projects
+
+- **Day 18:** 📋 **Stacks**
+  - Introduction to Stacks
+  - Basic operations (push, pop, peek, isEmpty)
+  - Common use cases of Stacks
+  - Using Stacks in practical examples and small projects
