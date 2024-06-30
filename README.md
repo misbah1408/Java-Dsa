@@ -101,3 +101,10 @@
   - Basic operations (push, pop, peek, isEmpty)
   - Common use cases of Stacks
   - Using Stacks in practical examples and small projects
+
+- **Day 19:** 📋 **Queue**
+  - Introduction to Queue
+  - Basic operations (enqueue, dequeue, peek, isEmpty)
+  - Common use cases of Queue
+  - Using Queue in practical examples and small projects
+  - Implementing Queue & Stack using Deque(Double Ended Queue)
