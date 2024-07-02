@@ -89,22 +89,31 @@
   - Common use cases of ArrayList
   - Using ArrayList in practical examples and small projects
   
-- **Day 17:** 📋 **LinkedList**
+Sure, here is the updated plan with different emojis:
+
+- **Day 17:** 🔗 **LinkedList**
   - Introduction to LinkedList
   - Basic operations (add, remove, get, set)
   - Iterating through a LinkedList
   - Common use cases of LinkedList
   - Using LinkedList in practical examples and small projects
 
-- **Day 18:** 📋 **Stacks**
+- **Day 18:** 📚 **Stacks**
   - Introduction to Stacks
   - Basic operations (push, pop, peek, isEmpty)
   - Common use cases of Stacks
   - Using Stacks in practical examples and small projects
 
-- **Day 19:** 📋 **Queue**
+- **Day 19:** 🚌 **Queue**
   - Introduction to Queue
   - Basic operations (enqueue, dequeue, peek, isEmpty)
   - Common use cases of Queue
   - Using Queue in practical examples and small projects
-  - Implementing Queue & Stack using Deque(Double Ended Queue)
+  - Implementing Queue & Stack using Deque (Double Ended Queue)
+
+- **Day 20:** ⚡ **Greedy Algorithms**
+  - Introduction to Greedy Algorithms
+  - Common characteristics and strategies
+  - Examples of Greedy Algorithms (e.g., Activity Selection, Fractional Knapsack , etc)
+  - Solving practical problems using Greedy Algorithms
+  
