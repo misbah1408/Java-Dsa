@@ -116,4 +116,10 @@ Sure, here is the updated plan with different emojis:
   - Common characteristics and strategies
   - Examples of Greedy Algorithms (e.g., Activity Selection, Fractional Knapsack , etc)
   - Solving practical problems using Greedy Algorithms
-  
+
+- **Day 21:** 🌳 **Binary Trees**
+  - Introduction to Binary Trees
+  - Basic operations (insert, delete, traverse)
+  - Types of Binary Trees (e.g., Full, Complete, Perfect, Balanced)
+  - Common use cases of Binary Trees
+  - Using Binary Trees in practical examples and small projects
