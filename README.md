@@ -123,3 +123,10 @@ Sure, here is the updated plan with different emojis:
   - Types of Binary Trees (e.g., Full, Complete, Perfect, Balanced)
   - Common use cases of Binary Trees
   - Using Binary Trees in practical examples and small projects
+
+- **Day 21:** 🔍🌳 **Binary Search Trees**
+  - Introduction to Binary Search Trees
+  - Basic operations (insert, delete, search, traverse)
+  - Types of Binary Search Trees (e.g., AVL, Red-Black, etc)
+  - Common use cases of Binary Search Trees
+  - Using Binary Search Trees in practical examples and small projects
