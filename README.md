@@ -131,7 +131,7 @@ Sure, here is the updated plan with different emojis:
   - Common use cases of Binary Search Trees
   - Using Binary Search Trees in practical examples and small projects
 
-- **Day 21:** 📚 **Heaps**
+- **Day 22:** 📚 **Heaps**
   - Introduction to Heaps
   - Types of Heaps (e.g., Min-Heap, Max-Heap)
   - Basic operations (insert, delete, peek)

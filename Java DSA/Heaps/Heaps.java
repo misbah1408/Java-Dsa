@@ -219,6 +219,7 @@ public class Heaps {
         for (int i : res) {
             System.out.print(i + " ");
         }
+        
     }
 }
 
