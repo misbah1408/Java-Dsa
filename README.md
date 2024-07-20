@@ -139,3 +139,12 @@ Sure, here is the updated plan with different emojis:
   - Heap Sort
   - Common use cases of Heaps
   - Using Heaps in practical examples and small projects
+
+- **Day 23:** 📊 **Hash Maps**
+  - Introduction to Hash Maps
+  - How Hash Maps work (hashing, collision resolution techniques)
+  - Basic operations (insert, delete, search)
+  - Different implementations (e.g., HashMap in Java, Dictionary in Python)
+  - Common use cases of Hash Maps
+  - Performance considerations and optimizations
+  - Using Hash Maps in practical examples and small projects
