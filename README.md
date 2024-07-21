@@ -148,3 +148,11 @@ Sure, here is the updated plan with different emojis:
   - Common use cases of Hash Maps
   - Performance considerations and optimizations
   - Using Hash Maps in practical examples and small projects
+
+- **Day 24:** 🔡 **Tries**
+  - Introduction to Tries
+  - Basic operations (insert, search)
+  - Different types of Tries (e.g., Standard Trie, Compressed Trie, Suffix Trie)
+  - Common use cases of Tries
+  - Performance considerations and optimizations
+  - Using Tries in practical examples and small projects
