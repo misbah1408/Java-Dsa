@@ -156,3 +156,9 @@ Sure, here is the updated plan with different emojis:
   - Common use cases of Tries
   - Performance considerations and optimizations
   - Using Tries in practical examples and small projects
+
+- **Day 25:** 🌐 **Graphs**
+  - **Day 01:**
+    - Introduction to Graphs
+    - Graph representations (adjacency list, adjacency matrix)
+    - Breadth-First Search (BFS), Depth-First Search (DFS), Pathfinding algorithms (has path)
