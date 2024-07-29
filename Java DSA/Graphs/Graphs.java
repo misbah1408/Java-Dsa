@@ -49,17 +49,24 @@ public class Graphs {
         // 6 - vertex
         graph[6].add(new Edge(6, 5, 1));
     }
-    static void bfs(ArrayList<Edge>[] graph){ //O(V+E)
+    static void bfs(ArrayList<Edge>[] graph){
         boolean[] visited = new boolean[graph.length];
+        for(int i=0; i<graph.length; i++){
+            if(!visited[i]){
+                bfsUtil(graph, visited);
+            }
+        }
+    }
+    static void bfsUtil(ArrayList<Edge>[] graph, boolean[] visited){ //O(V+E)
         Queue<Integer> q = new LinkedList<>();
         q.add(0); // source = 0
-        visited[0] = true;
         while (!q.isEmpty()) {
             int curr = q.remove();
             System.out.print(curr + " ");
-
+            visited[curr] = true;
             for (int i = 0; i < graph[curr].size(); i++) {
                 Edge e = graph[curr].get(i);
+                //
                 if (!visited[e.dest]) {
                     q.add(e.dest);
                     visited[e.dest] = true;
@@ -67,13 +74,19 @@ public class Graphs {
             }
         }
     }
-    static void dfs(ArrayList<Edge>[] graph, int curr, boolean[] visited){
+    static void dfs(ArrayList<Edge>[] graph){
+        boolean[] visited = new boolean[graph.length];
+        for(int i=0; i<graph.length; i++){
+            dfsUtil(graph, i, visited);
+        }
+    }
+    static void dfsUtil(ArrayList<Edge>[] graph, int curr, boolean[] visited){
         System.out.print(curr + " ");
         visited[curr] = true;
         for (int i = 0; i < graph[curr].size(); i++) {
             Edge e = graph[curr].get(i);
             if (!visited[e.dest]) {
-                dfs(graph, e.dest, visited);
+                dfsUtil(graph, e.dest, visited);
             }
         }
     }
@@ -95,7 +108,7 @@ public class Graphs {
         createGraph(graph);
         bfs(graph);
         System.out.println();
-        dfs(graph, 0, new boolean[V]);
+        dfs(graph);
         System.out.println(hasPath(graph, 0, 6, new boolean[V] ));
     }
 }

@@ -162,3 +162,8 @@ Sure, here is the updated plan with different emojis:
     - Introduction to Graphs
     - Graph representations (adjacency list, adjacency matrix)
     - Breadth-First Search (BFS), Depth-First Search (DFS), Pathfinding algorithms (has path)
+
+  - **Day 02:**
+    - Cycle detection(Undirected, directed)
+    - Bipartite
+    - Topological Sort
