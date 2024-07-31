@@ -167,3 +167,8 @@ Sure, here is the updated plan with different emojis:
     - Cycle detection(Undirected, directed)
     - Bipartite
     - Topological Sort
+
+  - **Day 03:**
+    - Topological Sort using BFS
+    - All paths from source
+    - Dijkstra's Algorithm
