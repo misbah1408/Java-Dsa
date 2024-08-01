@@ -172,3 +172,8 @@ Sure, here is the updated plan with different emojis:
     - Topological Sort using BFS
     - All paths from source
     - Dijkstra's Algorithm
+
+  - **Day 04:**
+    - Bellman-Ford Algorithm
+    - Minimum Spanning Tree using Prim's Algorithm
+    
