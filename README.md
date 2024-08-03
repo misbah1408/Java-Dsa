@@ -176,4 +176,12 @@ Sure, here is the updated plan with different emojis:
   - **Day 04:**
     - Bellman-Ford Algorithm
     - Minimum Spanning Tree using Prim's Algorithm
+
+  - **Day 05:**
+    - Cheapest Flights k stops
+    - Connecting Cites
+    - Disjoint Set
+    - Kruskal's Algorithm
+    - Foold Fill Algorithm
+
     
