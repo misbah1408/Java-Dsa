@@ -184,4 +184,13 @@ Sure, here is the updated plan with different emojis:
     - Kruskal's Algorithm
     - Foold Fill Algorithm
 
+- **Day 25:** 🧠 **Dynamic Programming**
+  - **Day 01:**
+    - Introduction to Dynamic Programming (DP)
+    - Key concepts: memoization vs. tabulation
+    - Solving problems with overlapping subproblems and optimal substructure
+    - Classic DP problems (e.g., Fibonacci, Climbing stairs)
+    - Top-down and bottom-up approaches
+    - Tips and tricks for identifying DP problems
+
     
