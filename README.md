@@ -184,7 +184,7 @@ Sure, here is the updated plan with different emojis:
     - Kruskal's Algorithm
     - Foold Fill Algorithm
 
-- **Day 25:** 🧠 **Dynamic Programming**
+- **Day 26:** 🧠 **Dynamic Programming**
   - **Day 01:**
     - Introduction to Dynamic Programming (DP)
     - Key concepts: memoization vs. tabulation
