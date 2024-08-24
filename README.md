@@ -192,5 +192,9 @@ Sure, here is the updated plan with different emojis:
     - Classic DP problems (e.g., Fibonacci, Climbing stairs)
     - Top-down and bottom-up approaches
     - Tips and tricks for identifying DP problems
-
+    
+  - **Day 02:**
+    - 0 - 1 knapsack( recurrsion, memoization & tabulation )
+    - Target Sum using ( Tabulation )
+    - Unbounded Knapsack ( Tabulation )
     
