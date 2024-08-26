@@ -197,4 +197,9 @@ Sure, here is the updated plan with different emojis:
     - 0 - 1 knapsack( recurrsion, memoization & tabulation )
     - Target Sum using ( Tabulation )
     - Unbounded Knapsack ( Tabulation )
+
+  - **Day 03:**
+    - Coin Change
+    - Rod Cutting
+    - Longest Common Subsequence ( Recursion, Memoization, Tabulation )
     
