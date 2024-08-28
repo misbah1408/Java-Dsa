@@ -202,4 +202,9 @@ Sure, here is the updated plan with different emojis:
     - Coin Change
     - Rod Cutting
     - Longest Common Subsequence ( Recursion, Memoization, Tabulation )
-    
+
+  - **Day 04:**
+    - Longest Common Substring
+    - Longest Increasing Subsequence
+    - Edit Distance
+    - String Conversion
