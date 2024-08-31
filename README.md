@@ -208,3 +208,9 @@ Sure, here is the updated plan with different emojis:
     - Longest Increasing Subsequence
     - Edit Distance
     - String Conversion
+
+  - **Day 05:**
+    - WildCard
+    - Catalan's ( Recursion, Memoization, Tabulation )
+    - Count BST
+    - Mountain Ranges
