@@ -214,3 +214,8 @@ Sure, here is the updated plan with different emojis:
     - Catalan's ( Recursion, Memoization, Tabulation )
     - Count BST
     - Mountain Ranges
+
+  - **Day 06:**
+    - Matrix Chain Multiplication ( Recursion, Memoization, Tabulation )
+    - Minimum Partition
+    - Minimum Array Jumps
